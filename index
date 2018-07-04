@@ -20,8 +20,15 @@
     		
         		<h1>Hi there, My name is Andrea!</h1>
 				<p>I am creating this for a class! <a href="#">Read more about my life...</a></p>
-    		
-		
+    		<h2>What is Git?</h2>
+			<p>A hosting platform for users to collaborate, create and review code by using repositories, branches, commits and pull requests.</p>
+		<h2>Who Started Git?</h2>
+			<p>Linus Torvalds invented Git.</p>
+		<h2>What is Hub?</h2>
+			<p>Hub is a command line wrapper for git. It helps in getting repositories, forking repos, navigating through project pages and submitting pull requests. </p>
+		<h2>Describe Repository and its role.</h2>
+		<p>Repositories are used to organize a project and contains items like videos, spreadsheets, data sets and files and images. </p>
+		<h2>Your thoughts about GitHub</h2>	
 		<footer>
     		<ul>
         		<li><a href="mailto:ayoung0328@starkstate.net">email</a></li>
