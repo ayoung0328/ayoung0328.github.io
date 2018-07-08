@@ -1,6 +1,6 @@
 body 
 {
-    background-color:   #fefbd8;
+    background-color:   #FFC0CB;
 }
 #wrapper
 {
@@ -12,7 +12,7 @@ nav ul, footer ul
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;
     list-style: none;
-    font-weight: bold;
+    font-weight: italic;
 }
 nav ul li, footer ul li 
 {
@@ -22,7 +22,7 @@ nav ul li, footer ul li
 a 
 {
     text-decoration: none;
-    color: #999;
+    color: #fff;
 }
 a:hover 
 {
@@ -30,8 +30,8 @@ a:hover
 }
 h1 
 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 4em;
+    font-family:'Times New Roman', 'Georgia', 'Serif';
 }
 p 
 {
@@ -41,6 +41,6 @@ p
 }
 footer 
 {
-    border-top: 1px solid #d5d5d5;
+    border-top: 2px solid #cccc99;
     font-size: .8em;
 }
