@@ -17,9 +17,11 @@
     		</ul>
 		</nav>
 		<div id = "wrapper">
+		<div class = "blurb">
     		
         		<h1>Hi there, My name is Andrea!</h1>
 				<p>I am creating this for a class! <a href="#">Read more about my life...</a></p>
+		
     		<h2>What is Git?</h2>
 			<p>A hosting platform for users to collaborate, create and review code by using repositories, branches, commits and pull requests.</p>
 		<h2>Who Started Git?</h2>
